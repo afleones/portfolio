@@ -45,7 +45,7 @@ export default function BaseLayout() {
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                     py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
                   <p>All rights Reserved &hearts;</p>
-                  <p>&copy; 2024</p>
+                  <p>&copy; 2025</p>
                </Box>
             </Grid>
          </Grid>
